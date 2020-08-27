@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_web"
+        android:title="Artistariq"
+        android:icon="@drawable/home"
+        app:cnb_backgroundColor="#FDE702"/>
+
+    <item
+        android:id="@+id/bottom_nav_profile"
+        android:title="Portfolio"
+        android:icon="@drawable/portfolio"
+        app:cnb_backgroundColor="#FDE702"/>
+
+    <item
+        android:id="@+id/bottom_nav_dashboard"
+        android:title="Contact"
+        android:icon="@drawable/contact"
+        app:cnb_backgroundColor="#FDE702"/>
+
+    <item
+        android:id="@+id/bottom_resume"
+        android:title="Resume"
+        android:icon="@drawable/resume"
+        app:cnb_backgroundColor="#FDE702"/>
+
+</menu>
